@@ -24,7 +24,7 @@ public class Simon {
     System.out.print("Masukan Nilai Alas : ");
     int alas = inputUser.nextInt();
     
-    System.out.print("Masukan Nilasi Tinggi : ");
+    System.out.print("Masukan Nilai Tinggi : ");
     int tinggi = inputUser.nextInt();
     
     int rumus2 = alas * tinggi / 2;
